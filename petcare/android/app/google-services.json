@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850918154320",
+    "project_id": "upload-pets4life",
+    "storage_bucket": "upload-pets4life.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850918154320:android:de5589ed97774cb0ac7155",
+        "android_client_info": {
+          "package_name": "com.example.petcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARKkUKdUege6pscIHcJyrwHLRTw1BTCnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
